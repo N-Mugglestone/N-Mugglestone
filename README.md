@@ -25,6 +25,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40" /> &nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -34,14 +35,21 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
-### 🌠 Take a look at my Stats! 🌠
+<div align="center">
+🌠 Take a look at my Stats! 🌠
+</div>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Mugglestone&theme=tokyonight&show_icons=true)](https://git.io/streak-stats ) ![N-Mugglestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Mugglestone&theme=tokyonight&show_icons=true)
 
 
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-Mugglestone&theme=tokyonight&show_icons=true)](https://git.io/streak-stats)
-
-![N-Mugglestone's GitHub stats](https://github-readme-stats.vercel.app/api?username=N-Mugglestone&theme=tokyonight&show_icons=true)
+<div align="center">
 
 [![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N-Mugglestone&theme=tokyonight&show_icons=true)](https://github.com/N-Mugglestone/github-readme-stats)
+
+</div>
+
+
+
 
 <!--
 **N-Mugglestone/N-Mugglestone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
