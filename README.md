@@ -35,6 +35,19 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+### 📚 What I am learning now:
+
+At the moment I am expanding my knowledge to help me be the best I have ever been! 
+
+So far I have completed:
+
+<div>
+<img src ="https://images.credly.com/size/680x680/images/3b7846e2-bdbd-4ed6-8543-182f47502190/image.png" title="Agile Explorer badge" alt"Agile Explorer" width="50" height="50"/> &nbsp;
+</div>
+
+
+---
+
 <div align="center">
 🌠 Take a look at my Stats! 🌠
 </div>
